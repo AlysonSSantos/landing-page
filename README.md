@@ -1,2 +1,2 @@
 # landing-page
-Landing Page para uma empresa de limpeza de Boston/EUA
+Landing Page desenvolvida para uma empresa de limpeza de Boston/EUA.
